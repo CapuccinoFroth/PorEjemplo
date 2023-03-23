@@ -1,4 +1,4 @@
-# PorEjemplo
+# PorEjemplo - Utility, NFTs, Rewards
 
 **Learn and earn - “Por Ejemplo” Web3 dApp**
 
