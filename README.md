@@ -2,15 +2,13 @@
 
 **Learn and earn - “Por Ejemplo” Web3 dApp**
 
-**Project’s Objective:** Is a Web3 platform utilizing Game-Fi token incentivization and Social-Fi content-data where users can earn while they learn a language and tutors can earn for their unique content creation. Given it’s open source, developers can also implement gamification features and offer additional rewards to encourage user engagement
+**Project’s Objective:** Is a Web3 platform utilizing Game-Fi token incentivization and Social-Fi content-data where users can earn while they learn a language and tutors can earn for their unique content creation. Given it’s open source, developers can also implement gamification features and offer additional rewards to encourage user engagement. In parallel AI will also be used to feed the language data and translations. 
 
 **Sector:** Incentivize language learners and foster a community of language enthusiasts with positive reinforcement + rewards.
 
-**Technology:** The dApp will use the XRP Ledger to create a utility token that then be exchanged for XRP. It will use the escrow feature as smart contracts to allow logic to be executed before and/or after XRPL transactions. It will use the NFT tokens to encode ownership of content created.
-
 **The platform:** The dApp will be a user-friendly platform where learners can access language courses, exercises, quizzes, assessments and in-game items such as puzzles/crosswords. You can collaborate with language experts and teachers to create high-quality content for the dApp.
 
-**Rewards system:** The dApp will have a reward system built in, where learners can earn tokens for completing language learning tasks, such as taking quizzes, participating in discussions, and practicing with native speakers. The tutors will earn by creating content for the learner. Developers can earn by creating in-game types such as puzzles and crosswords.
+**Rewards system:** The dApp will have a reward system built in, where learners can earn tokens for completing language learning tasks, such as taking quizzes, participating in discussions, and practicing with native speakers. The tutors will earn by creating content for the learner. Developers can earn by creating in-game types such as puzzles and crosswords. The dApp will have a utility token that can then be exchanged for either ETH or SOL. It will use the NFT tokens to encode ownership of content created.
 
 **Promoting the program:** The dApp can be promoted through social media, language learning communities, and targeted ads. We can also collaborate with language learning organizations.
 
@@ -27,13 +25,11 @@
 
 **Token distribution:** Distribute tokens to learners based on their participation and contribution to Por-Ejemplo. For example, learners can earn tokens for completing language courses, exercises, and assessments, participating in discussions, and practicing with native speakers.
 
-**Token value:** The token ABC is a utility token that can be minted based on the activity of the participant. The participant is incentived to mint new tokens. When ABC tokens are redeemed for XRP, the ABC token is burnt. This will reduce the token supply and increase token value.
+**Token value:** The token ABC is a utility token that can be minted based on the activity of the participant. The participant is incentived to mint new tokens. When ABC tokens are redeemed for either ETH or SOL, the ABC token is burnt. This will reduce the token supply and increase token value.
 
 **Reward system:** The reward system incentivizes learners to participate in the program. For example, learners can earn ABC tokens for completing specific milestones, such as finishing a language course or reaching a certain level of proficiency. Users can also earn additional rewards for participating in-games. Tutors can host language exchange sessions and earn rewards. contribute to the development of the platform.
 
-**Token redemption:** All participants can redeem their ABC tokens for XRP or they can also redeem for in-app items, such as access to premium language learning content or exclusive language exchange events. Can also partner with language learning organizations to offer discounts on their products or services.
-
-**Token burning:** The dApp will use a token burning mechanism to reduce the token supply and increase token value. When ABC tokens are redeemed for XRP, the ABC token is burnt. Also, a portion of the tokens earned by learners can be burned periodically if no active use.
+**Token redemption:** All participants can redeem their ABC tokens for a diff crypto-currency or they can also redeem for in-app items, such as access to premium language learning content or exclusive language exchange events. Can also partner with language learning organizations to offer discounts on their products or services.
 
 
 #----------------
