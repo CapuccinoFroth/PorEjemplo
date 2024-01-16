@@ -38,9 +38,9 @@
 
 The dApp will need to follow these technical specifications:
 
-**Blockchain:** The platform will use the XRPL blockchain infrastructure that now supports smart contracts. It could also make use of the to the Ethereum Virtual Machine (EVM) sidechain that is connected to the XRP Ledger bridge and use its features.
+**Blockchain:** The platform will use the Solana blockchain infrastructure now that can be bridged to the EVM ecosystem. 
 
-**Smart Contract:** The platform will use smart contracts to manage the token rewards for learners, tutors and devs. The smart contract should be written in a programming language supported by XRPL’s infrastructure, such as [XXXXX]. 
+**Smart Contract:** The platform will use smart contracts to manage the token rewards for learners, tutors and devs. The smart contract should be written in RUST. 
 The smart contract should have the following functions:
 - Distribute tokens to tutors upon profile set up and service offer (content creation, flashcards as NFTs, private tutoring, etc)  
 - Distribute tokens to learners upon completion of profile and learning activities (quizzes, vocabulary review, play puzzles/crosswords, etc).
@@ -48,9 +48,9 @@ The smart contract should have the following functions:
 - Keep track of the number of tokens earned by each user
 - Enable the transfer of tokens from one user to another. This can also be used to give a tip, a thank you or a congratulation to a user. 
 
-**Token:** The utility token for reward mechanism will be called ABC. The ABC token can then be redeemed/exchanged for XRP. The NFT Tokens can be created by content creators. These can be collected by the learner.  
+**Token:** The utility token for reward mechanism will be called ABC. The ABC token can then be redeemed/exchanged for SOL. The NFT Tokens can be created by content creators. These can be collected by the learner.  
 
-**Wallet Integration:** The dApp will be initially integrated with XUMM as it supports XRP. As a phase 2 it will integrate with MetaMask, through the XRP Ledger EVM sidechain. This integration will allow users to receive and transfer tokens.
+**Wallet Integration:** The dApp will be initially integrated with Phantom as it supports SOL. As a phase 2 it will integrate with MetaMask. This integration will allow users to receive and transfer tokens.
 
 **Learning Content Management:** We will need to use/develop a content management system that will manage the learning content. The CMS should have the following features:
 - Create and manage courses
